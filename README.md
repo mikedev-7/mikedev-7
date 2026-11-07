@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Next JS e-commerce app](https://github.com/mikedev-7/nextjsapp)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently working with **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mikedev-7/tailwind-portfolio](https://github.com/mikedev-7/tailwind-portfolio)
 
