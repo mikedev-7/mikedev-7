@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ofagbor Michael</h1>
-<h3 align="center">A Mechatronic Engineer and Software Developer</h3>
+<h3 align="center">A Mechatronic Engineer and Systems Programmer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikedev-7&label=Profile%20views&color=0e75b6&style=flat" alt="mikedev-7" /> </p>
